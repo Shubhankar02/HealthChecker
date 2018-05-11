@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Health Checker</string>
+    <string name="heading">Calculate BMI</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (m)</string>
+    <string name="BMI_Value">0</string>
+    <string name="BMI_Range">BMI Range</string>
+    <string name="Result">Result</string>
+    <string name="BMI">BMI is</string>
+    <string name="BMI_val">Your BMI value is </string>
+    <string name="which_consider">Which consider as</string>
+    <string name="normal">Normal</string>
+    <string name="diet">Diet</string>
+    <string name="Exercise">Exercise Tips</string>
+    <string name="text1">Eat five to six smaller meals during the day rather than two or three large meals.
+        Choose nutrient-rich foods.
+        As part of an overall healthy diet, choose whole-grain breads,
+        pastas and cereals; fruits and vegetables; dairy products; lean protein sources; and nuts and seeds.
+        Try smoothies and shakes.
+    </string>
+    <string name="text2">
+        Your BMI is out with the healthy weight range (between 18.5 and 24.9)
+        you should try to either gain or lose weight by eating a balanced diet and doing appropriate exercise.
+    </string>
+    <string name="text3">
+        Avoid food that is high in sugar, like pastries, sweetened cereal, and soda or fruit-flavored drinks.
+        Reduced-fat or no-fat (skim) milk, reduced-fat cheese, and low-fat or no-fat yoghurt are good sources of the protein and calcium we need.
+        Try to eat 2-4 servings of low-fat or no-fat dairy products each day.
+    </string>
+    <string name="text4">
+        enjoy a wide variety of nutritious foods from these five groups every day:
+        \n1. Vegetables
+        \n2. Grains(cereals)
+        \n3. lean meat and poultry
+        \n4. milk, yogurt, cheese
+        \nDrink plenty of water
+        \nLimit intake of food containing saturated fats
+    </string>
+    <string name="text5"></string>
+    <string name="exe_under">
+        Swimming
+        \nJogging
+        \nLunges And Squats
+        \nBench Press
+        \nDeadlifts
+        \nYoga
+        \nPull-Ups
+    </string>
+    <string name="exe_norm">
+        Walk-Out Push-Up
+        \nStandard Squat
+        \nJumping Jacks
+        \nHip Bridge
+        \nPlank
+    </string>
+    <string name="exe_obs">
+        Walking
+        \nAqua Jogging
+        \nGroup Exercise Classes
+        \nStrength Training
+        \nYou can start lifting weights at home,
+        but this is one instance where joining a gym or hiring a trainer may be especially \nhelpful
+        \nRecumbent Bike, Cross Trainer, or Portable Peddler
+        \nTai Chi/ Mind-Body Exercise
+    </string>
+    <string name="exe_overwt">
+        Walking
+        \nAqua jogging
+        \nPush-ups
+        \nRunning
+        \nCycling
+        \nSwimming
+    </string>
+    <string name="create_an_event">Create an event in calender</string>
+    <string name="email_the_tips">Email me all this tips</string>
+    <string name="calculate">Calculate</string>
+    <string name="obesity">Obesity</string>
+    <string name="underWeight">Underweight</string>
+    <string name="overWeight">Overweight</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26c4f8</color>
+    <color name="colorPrimaryDark">#07ade4</color>
+    <color name="colorAccent">#f5ac17</color>
+    <color name="textColor">#3b3b3b</color>
+    <color name="headingColor">#191919</color>
+    <color name="buttonColor">#fff</color>
+    <color name="gmailApp">#db3236</color>
+</resources>
